@@ -33,10 +33,11 @@ Dialogue management plays a critical role in dialogue systems, comprising a dial
 ---
 
 ## Repository Structure
-- `src/`: Contains the source code for the framework.
+- `deep_dialog/`: Contains the source code for the framework.
 - `data/`: Includes the preprocessed movie ticket booking, restaurant reservation, and taxi ordering dataset.
-- `experiments/`: Scripts for running experiments and generating results.
+- `script/`: Scripts for running experiments and generating results.
 - `README.md`: This file.
+- `finalhit.ipynb`: Run codes for train in colab.
 
 ---
 
