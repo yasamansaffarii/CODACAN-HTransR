@@ -37,7 +37,7 @@ Dialogue management plays a critical role in dialogue systems, comprising a dial
 - `data/`: Includes the preprocessed movie ticket booking, restaurant reservation, and taxi ordering dataset.
 - `script/`: Scripts for running experiments and generating results.
 - `README.md`: This file.
-- `finalhit.ipynb`: Run codes for train in colab.
+- `finalhit.ipynb`: Run codes for train model to evaluate different state sequence lenth, 3 domain and expriece replay pool size optimaization in colab.
 
 ---
 
