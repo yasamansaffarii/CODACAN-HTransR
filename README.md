@@ -126,6 +126,6 @@ This repository is based on the code repositories TC-Bot and DialogDQN-Variants,
 ## Contact
 For questions or collaborations, feel free to reach out to:
 
-Yasaman Saffari: saffari@kashanu.ac.ir  
+Yasaman Saffari: y.saffari@grad.kashanu.ac.ir  
 Javad Salimi Sartakhti: salimi@kashanu.ac.ir
 
