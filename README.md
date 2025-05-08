@@ -6,7 +6,7 @@ This repository contains the implementation of the framework proposed in the pap
 **"Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning"**  
 Authors: Yasaman Saffari, Javad Salimi Sartakhti  
 Affiliation: Department of Electrical and Computer Engineering, University of Kashan, Kashan, Iran  
-Contact: [saffari@kashanu.ac.ir](mailto:saffari@kashanu.ac.ir), [salimi@kashanu.ac.ir](mailto:salimi@kashanu.ac.ir)
+Contact: [y.saffari@grad.kashanu.ac.ir](mailto:saffari@kashanu.ac.ir), [salimi@kashanu.ac.ir](mailto:salimi@kashanu.ac.ir)
 
 ---
 
