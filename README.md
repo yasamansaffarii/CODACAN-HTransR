@@ -74,6 +74,18 @@ To reproduce the experiments, install the following dependencies:
 ---
 
 ## Hyperparameter Settings
+        self.state_element_sizes_res = [11, 31, 31, 31, 11, 31, 31, 1, 34, 32, 32]#276 res
+        self.state_len_res = 276
+        self.state_element_sizes_tax = [11, 22, 22, 22, 11, 22, 22, 1, 34, 23, 23]#213 taxi
+        self.state_len_tax = 213
+        self.state_element_sizes_mov = [11, 29, 29, 29, 11, 29, 29, 1, 44, 30, 30]#272 mov
+        self.state_len_mov = 272
+        self.pad_tax = 374
+        self.pad_res = 374
+        self.pad_mov = 484
+        self.max_size_res = 34
+        self.max_size_tax = 34
+        self.max_size_mov = 44
 1. Set domain-specific parameters:  
    Modify the following lines in `deep_dialog/qlearning/network.py` (Lines 408-411):  
    ```python
